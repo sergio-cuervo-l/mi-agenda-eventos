@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mi-proyecto-eventos/static/css/main.7c3b5b45.css",
-    "main.js": "/mi-proyecto-eventos/static/js/main.66e046e6.js",
-    "static/js/453.04a6654f.chunk.js": "/mi-proyecto-eventos/static/js/453.04a6654f.chunk.js",
-    "index.html": "/mi-proyecto-eventos/index.html",
-    "main.7c3b5b45.css.map": "/mi-proyecto-eventos/static/css/main.7c3b5b45.css.map",
-    "main.66e046e6.js.map": "/mi-proyecto-eventos/static/js/main.66e046e6.js.map",
-    "453.04a6654f.chunk.js.map": "/mi-proyecto-eventos/static/js/453.04a6654f.chunk.js.map"
+    "main.css": "/mi-agenda-eventos/static/css/main.7c3b5b45.css",
+    "main.js": "/mi-agenda-eventos/static/js/main.e9822038.js",
+    "static/js/453.04a6654f.chunk.js": "/mi-agenda-eventos/static/js/453.04a6654f.chunk.js",
+    "index.html": "/mi-agenda-eventos/index.html",
+    "main.7c3b5b45.css.map": "/mi-agenda-eventos/static/css/main.7c3b5b45.css.map",
+    "main.e9822038.js.map": "/mi-agenda-eventos/static/js/main.e9822038.js.map",
+    "453.04a6654f.chunk.js.map": "/mi-agenda-eventos/static/js/453.04a6654f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c3b5b45.css",
-    "static/js/main.66e046e6.js"
+    "static/js/main.e9822038.js"
   ]
 }
